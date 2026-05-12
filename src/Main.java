@@ -1,6 +1,6 @@
 public class Main {
-    static void main() {
-        FizzBuzz.main();
-        FizzBuzz.doFizzBuzz(5);
+    public static void main() {
+        FizzBuzz.main(5);
+        FizzBuzz.doFizzBuzz(15);
     }
 }
